@@ -1,0 +1,32 @@
+#EXTM3U
+====Christian====
+#EXTINF:-1,CTV
+http://media6.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1,Aghapy TV
+http://media.smc-host.com:1935/redirect/aghapy.tv/aghapy.smil?type=m3u8
+#EXTINF:-1,NourSat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1,LOGOS TV
+http://46.105.112.176:1935/logoschannel.com/logostv.smil/playlist.m3u8
+#EXTINF:-1, Koogi TV
+http://media.smc-host.com:1935/redirect/koogi.tv/koogi.smil?type=m3u8
+#EXTINF:-1, AL Fady
+http://stream.truth-voice.net:1935/FadyLive/FadyLive/playlist.m3u8
+#EXTINF:-1, AL Horreya
+https://58cc65c534c67.streamlock.net/alhorreya.tv/smil:alhorreya.smil/playlist.m3u8
+====News====
+#EXTINF:-1,FRANCE24
+http:\/\/static.france24.com\/live\/F24_AR_LO_HLS\/live_web.m3u8
+#EXTINF:-1,Al-Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1,Al-Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+====Enterntainment====
+#EXTINF:-1, DMC
+streaming.i-sat.tv:8081/livestream/dmchd/playlist.m3u8
+#EXTINF:-1, DMC-Drama
+streaming.i-sat.tv:8081/livestream/dmcdrama/playlist.m3u8
+#EXTINF:-1, Rotana Aflam
+http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/playlist.m3u8
+#EXTINF:-1, OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
