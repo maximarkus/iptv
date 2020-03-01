@@ -27,3 +27,11 @@ http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:-1, Al Nahar 
 http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/04.m3u8
+#EXTINF:-1, MBC Masr
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
+#EXTINF:-1, MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
+#EXTINF:-1, MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1, MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
