@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, CTV
-http://media.smc-host.com:1935/redirect/ctvchannel.tv/ctv.smil?type=m3u8
+http://media6.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1, Aghapy TV
 http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1, Al-Karma TV
