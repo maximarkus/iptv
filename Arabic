@@ -18,7 +18,7 @@ http://livecdnh3.tvanywhere.ae/hls/dmchd/04.m3u8
 #EXTINF:-1, LBC
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
 #EXTINF:-1, MTV HD
-http://oui9mobi.com/pyr/fplyr1.php?id=http://188.160.0.148:1935/5c57ec4475d8538/_definst_/smil:myStream.smil/playlist.m3u8
+https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon_576p.m3u8
 #EXTINF:-1, OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
 #EXTINF:-1, Teleliban TV
