@@ -17,8 +17,12 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 http://livecdnh3.tvanywhere.ae/hls/dmchd/04.m3u8
 #EXTINF:-1, LBC
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:-1, LBC
+http://46.101.120.147:3333/arab2020/lbctv/chunks.m3u8?nimblesessionid=242706&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjEgMTo0NTozMCBBTSZoYXNoX3ZhbHVlPVNYVld3djRYMzNLV0VNZTRudGNyTHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1, MTV HD
 https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon_576p.m3u8
+#EXTINF:-1, MTV HD
+http://46.101.120.147:3333/arab2020/mtvleb/chunks.m3u8?nimblesessionid=238844&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjEgMTowNTo0MCBBTSZoYXNoX3ZhbHVlPStiNUM3NUhIdDN3QlNzaWU0N0lMT2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1, OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
 #EXTINF:-1, Teleliban TV
@@ -37,7 +41,3 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
 #EXTINF:-1, Al Kahera Wl Nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/03.m3u8
-#EXTINF:-1, Arsenal
-http://87.120.36.62:8080/hls/streama116164/index.m3u8?st=xwBekRy81SReFiQeMksaVw
-#EXTINF:-1, Arsenal 2
-http://87.120.36.32:8080/hls/streama135860/index.m3u8?st=161w3B4kykv20PVjrRLzGA
