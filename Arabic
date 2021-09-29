@@ -41,3 +41,5 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
 #EXTINF:-1, Al Kahera Wl Nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/03.m3u8
+#EXTINF:-1, SAL-LOSC
+https://stv-live.akamaized.net/hls/live/2031009/geoATonly210929UefaCl2FCSVsLOSCPri/master_3360.m3u8
