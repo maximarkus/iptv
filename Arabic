@@ -43,3 +43,5 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/03.m3u8
 #EXTINF:-1, SAL-LOSC
 https://stv-live.akamaized.net/hls/live/2031009/geoATonly210929UefaCl2FCSVsLOSCPri/master_3360.m3u8
+#EXTINF:-1, Die Wütenden - Les Miserables
+https://dms.redbull.tv/v4/destination/stv/AA-25BRAGQ812112/personal_computer/chrome/de/de_DE/playlist.m3u8
